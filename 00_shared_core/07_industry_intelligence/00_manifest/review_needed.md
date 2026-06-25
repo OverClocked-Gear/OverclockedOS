@@ -56,3 +56,44 @@
 - Confirm course-facing clusters for broad sectors that span many business models, especially 31-33, 44-45, 48-49, and 51.
 - Confirm authoritative Web Strategy module and Digital Strategy session mappings once syllabi and course_crosswalk files are available.
 - Confirm whether to create an explicit ecommerce course cluster or keep ecommerce as a cross-cluster operator lens.
+
+## Processed Asset Pilot Review
+
+### Uncertain Source Metadata
+
+- RPT-005, RPT-008, RPT-010, RPT-011, and RPT-014 still have unknown publisher and unknown report year.
+- DATA-001 and DATA-007 still have unknown publisher and unknown data period.
+- RPT-014 uses C2531-GL as a source/report code, not NAICS. Any NAICS assignment needs instructor or authoritative source confirmation.
+- RPT-010 uses broad NAICS 51. Subsegment focus is still unresolved.
+- RPT-005 uses broad NAICS sector range 31-33. Narrower manufacturing subsegments are unresolved.
+
+### Rights And Access Concerns
+
+- All pilot source cards, data cards, industry profiles, and signal cards are instructor-facing only.
+- No pilot asset should be copied into student-facing content until rights and permitted-use decisions are confirmed.
+- Do not quote long passages from the raw reports or data files.
+- The current pilot uses metadata-first synthesis only; it does not validate source contents inside the raw DOCX or XLSX files.
+
+### Weak Or Thin Source Coverage
+
+- banking_finance_insurance is supported by one broad sector report only; fintech, payments, banking, insurance, and wealth subsegments need more specific sources.
+- retail_cpg_commerce has strong pilot relevance from retail and ecommerce sources, but category-specific depth is thin.
+- technology_saas_platforms relies on broad information-sector coverage and ecommerce-adjacent data; dedicated SaaS, software, cloud, cybersecurity, and AI platform sources would improve coverage.
+- manufacturing_industrial is supported by a broad sector report and automotive-adjacent source; industrial automation, robotics, and B2B industrial software are thin.
+- automotive_mobility is supported by a global automotive manufacturing report; dealer retail, EV charging, auto finance, aftersales, and mobility services are thin.
+- advertising_media_marketing is supported by advertising market data and adjacent information/retail sources; adtech, agency services, creator media, and channel-specific benchmarks are thin.
+
+### Recommended New Industry Reports To Add Later
+
+- Banking, payments, fintech, insurance, and wealth management reports.
+- Software publishing, SaaS, cloud infrastructure, cybersecurity, AI platforms, and data services reports.
+- Ecommerce platforms, online marketplaces, digital retail, and category-specific retail reports.
+- Advertising agencies, digital advertising, adtech, creator economy, streaming/media, and social platform reports.
+- EV manufacturing, auto retail/dealers, charging infrastructure, auto finance, aftermarket, and connected vehicle services reports.
+- Industrial automation, robotics, industrial software, electronics manufacturing, and durable goods manufacturing reports.
+
+### Course Mapping Uncertainty
+
+- Web Strategy modules and Digital Strategy sessions remain marked TBD because authoritative syllabi and course_crosswalk files were not present in the inspected manifest context.
+- Ecommerce is treated as an operator lens in this pilot, not as a formal course-facing cluster.
+- Signal cards are suitable as instructor planning aids only; they are not assessment-ready and do not include quiz or exam material.
