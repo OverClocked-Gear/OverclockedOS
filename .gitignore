@@ -1,0 +1,14 @@
+# Licensed/proprietary raw industry intelligence kept local
+00_shared_core/07_industry_intelligence/raw_sources/reports/*
+!00_shared_core/07_industry_intelligence/raw_sources/reports/.gitkeep
+
+00_shared_core/07_industry_intelligence/raw_sources/data_files/*
+!00_shared_core/07_industry_intelligence/raw_sources/data_files/.gitkeep
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+
+# Windows/OneDrive artifacts
+desktop.ini
+*.tmp

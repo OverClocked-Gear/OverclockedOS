@@ -1,0 +1,40 @@
+Folder PATH listing for volume OS
+Volume serial number is 00000260 F018:3B55
+C:\USERS\MIKEW\ONEDRIVE\DOCUMENTS\OVERCLOCKED_COURSEOS\00_SHARED_CORE\07_INDUSTRY_INTELLIGENCE
+|   AGENTS.md
+|   
++---00_manifest
+|       industry_intelligence_tree.txt
+|       
++---02_processed
+|   +---data_cards
+|   +---industry_profiles
+|   +---signal_cards
+|   \---source_cards
++---03_course_maps
+\---raw_sources
+    +---data_files
+    |       advertising-media_advertising_worldwide_USD_en.xlsx
+    |       consumer_alcoholic-drinks_worldwide_USD_en.xlsx
+    |       consumer_apparel_worldwide_USD_en.xlsx
+    |       consumer_consumer-electronics_worldwide_USD_en.xlsx
+    |       consumer_food_worldwide_USD_en.xlsx
+    |       consumer_pet-animal-supplies_worldwide_USD_en.xlsx
+    |       ecommerce_ecommerce_worldwide_USD_en.xlsx
+    |       
+    \---reports
+            11 Agriculture Forestry Fishing  Hunting in the US Industry Report.docx
+            21 Mining in the US Industry Report.docx
+            22 Utilities in the US Industry Report.docx
+            23 Construction in the US Industry Report.docx
+            31-33 Manufacturing in the US Industry Report.docx
+            42 Wholesale Trade in the US Industry Report.docx
+            42449 Soft Drink Baked Goods  Other Grocery Wholesaling in the US Industry Report.docx
+            44-45 Retail Trade in the US Industry Report.docx
+            48-49 Transportation  Warehousing in the US Industry Report.docx
+            51 Information in the US Industry Report.docx
+            52 Finance  Insurance in the US Industry Report.docx
+            53 Real Estate  Rental  Leasing in the US Industry Report.docx
+            54 Professional Scientific and Technical Services in the US Industry Report.docx
+            C2531-GL Global Automobile  Light-Duty Motor Vehicle Manufacturing Industry Report.docx
+            
