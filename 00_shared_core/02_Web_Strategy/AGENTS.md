@@ -145,6 +145,12 @@ For public website/app inspection activities:
   - Integrated Tech Stack — five layers
 - Clearly distinguish Overclocked frameworks from external frameworks and industry interpretations.
 
+## Framework Contract Requirement
+
+Every graded discussion, Brand Pod, website/app operator activity, and case-study prompt must include a framework contract. The contract identifies required frameworks, role-specific framework emphasis, optional extension frameworks, and frameworks not to force. Canonical framework names must come from the Overclocked framework library / appendix or the manuscript.
+
+If students are expected to choose a framework, the prompt must say so and provide a bounded set of appropriate choices. Role lenses and digital surfaces do not replace framework application. Framework application should map to the four canonical rubric criteria, especially "Application of Course Frameworks with Specific Examples." Strong framework use means applying the model to make a diagnosis, recommendation, or measurement decision, not merely naming or defining the framework.
+
 ### Recommendation and Measurement
 
 - Require a specific operating recommendation rather than a generic design opinion.

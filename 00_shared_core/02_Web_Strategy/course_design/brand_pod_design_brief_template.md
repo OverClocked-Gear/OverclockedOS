@@ -45,6 +45,45 @@ Why this module needs a brand/surface application:
 
 What students should understand after completing the activity:
 
+## Framework Contract
+
+Primary required framework:
+
+Why this framework is required:
+
+What students must do with it:
+
+Team A framework emphasis:
+
+Team B framework emphasis:
+
+Optional extension framework(s):
+
+- 
+- 
+- 
+
+Frameworks to avoid for this activity:
+
+- 
+- 
+- 
+
+Common framework misuse:
+
+- 
+- 
+- 
+
+Rubric mapping:
+
+| Framework Requirement | Applies To | Canonical Rubric Criterion | Evidence Expected | Common Concern |
+|---|---|---|---|---|
+| Apply the primary required framework | Both teams | Application of Course Frameworks with Specific Examples |  |  |
+| Use role-specific framework emphasis | Team A / Team B | Application of Course Frameworks with Specific Examples; Strategic Diagnosis and Critical Reasoning |  |  |
+| Use optional extension only if it strengthens the analysis | Optional | Strategic Diagnosis and Critical Reasoning; Use of Examples and Evidence |  |  |
+| Avoid poor-fit or forced frameworks | Both teams | Writing Clarity, Organization, and Proper Citation of Course Concepts |  |  |
+
 ## 3. Brand and Industry Selection
 
 Brand:

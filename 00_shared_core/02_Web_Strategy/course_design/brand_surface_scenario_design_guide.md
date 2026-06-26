@@ -52,6 +52,30 @@ Use this sequence before drafting any Brand Pod or applied discussion:
 13. Map the task to the four canonical rubric criteria.
 14. Compress the final student-facing version for Canvas.
 
+## Framework Contract Rule
+
+A framework contract is the short assignment-level agreement that tells students exactly how Overclocked frameworks should be used. It prevents students from guessing whether the task requires a specific framework, a role-specific framework emphasis, or a bounded framework choice.
+
+Each graded discussion, Brand Pod, website/app operator activity, and case-study prompt should identify:
+
+- Required framework: the primary Overclocked framework every team must apply.
+- Role-specific framework emphasis: how each assigned team or role lens should use the required framework or a supporting framework.
+- Optional extension framework: one or two additional frameworks students may use if they strengthen the diagnosis, recommendation, or measurement logic.
+- Frameworks to avoid or not force: frameworks that may be related to the broader course but would distract from the module objective, surface, scenario, or workload.
+
+Framework use is evidence under the canonical rubric, especially Application of Course Frameworks with Specific Examples. It may also support Strategic Diagnosis and Critical Reasoning, Use of Examples and Evidence, and Writing Clarity, Organization, and Proper Citation of Course Concepts when students use the model to structure the argument.
+
+Common student misuses include:
+
+- name-dropping a framework without applying it
+- defining the framework instead of using it to analyze the surface or scenario
+- using too many frameworks for a short discussion
+- selecting a poor-fit framework because it sounds familiar
+- treating a role lens, brand, or digital surface as a substitute for framework application
+- forcing a framework that does not improve the diagnosis, recommendation, or metric
+
+If students are expected to choose a framework, provide a bounded set of appropriate choices and explain what a good choice should accomplish.
+
 ## Brand Selection Principles
 
 A brand should be selected because it supports the learning objective, not merely because it is famous.
