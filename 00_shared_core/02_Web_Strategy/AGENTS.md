@@ -40,6 +40,47 @@ Where relevant, connect each module to the practical question:
 
 Website/app activities should remain strategic and managerial. Do not turn the course into a coding, software engineering, or production UX course unless explicitly requested.
 
+## 360° Digital Operating Team Lens
+
+The 360° Digital Operating Team Lens applies across Web Strategy Modules 0-15 as a course-wide instructional-design principle.
+
+Apply it selectively where it advances the syllabus objectives rather than forcing it into every activity. Students should gain cumulative exposure to the major digital operating roles across the semester. A normal weekly application should use no more than two or three primary operating roles.
+
+The shared operating object may be a website, app, landing page, customer portal, marketplace, product page, email, social touchpoint, loyalty experience, search experience, checkout, account area, content hub, or another relevant digital surface.
+
+Paired Brand Pod teams should examine the same brand and, whenever practical, the same digital surface through complementary role lenses. Technical and analytical role applications must be scaffolded appropriately for undergraduate students.
+
+Students should identify:
+
+1. what the assigned role owns
+2. what decision the role must make
+3. which other roles, systems, or data it depends on
+4. how success should be measured
+
+Role lenses are assignment evidence within the four canonical rubric criteria, not additional rubric categories. Students should not be assessed on role perspectives they were not assigned.
+
+Do not reduce role applications to job-title definitions. Connect roles to decisions, responsibilities, artifacts, dependencies, customer outcomes, business outcomes, and metrics. Require students to distinguish direct observation from reasonable operating inference.
+
+Do not require access to proprietary company systems, private accounts, or confidential information. Use Digital Strategy / General Manager as the integration lens when students must reconcile multiple functional recommendations. Keep undergraduate asynchronous workload manageable.
+
+Module 0 and Module 15 should not receive forced role applications unless explicitly requested.
+
+The canonical operating-role lenses are:
+
+- Digital Product & Experience
+- Performance Marketing
+- Digital Merchandising & Content
+- CRM, Lifecycle & Loyalty
+- Analytics & Experimentation
+- Platform, Technology & Operations
+- Digital Strategy / General Manager as the integration lens
+
+Use the detailed role definitions, module-role crosswalk, and coverage audit contained in:
+
+- `course_design/digital_operating_roles.md`
+- `course_design/module_role_crosswalk.md`
+- `course_design/module_role_coverage_audit.md`
+
 ## Brand Pod Design Rules
 
 When creating Brand Pod activities:
