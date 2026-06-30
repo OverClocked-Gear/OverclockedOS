@@ -11,4 +11,6 @@
 
 # Windows/OneDrive artifacts
 desktop.ini
-*.tmp
+*.tmpresearch_corpus/Kinetic Economy/**
+!research_corpus/Kinetic Economy/_inventory/
+!research_corpus/Kinetic Economy/_inventory/**
